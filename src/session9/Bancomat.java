@@ -12,6 +12,7 @@ public class Bancomat {
         contBancar1.getDetails();
 
         ContBancar.setDobanda(0.09);
+
         contBancar1.getDetails();
 
 
